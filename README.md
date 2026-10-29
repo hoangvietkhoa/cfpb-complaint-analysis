@@ -45,7 +45,7 @@ My first solo data project. I analyzed 107,767 consumer complaints filed with th
 ## Limitations
 - Counts aren't adjusted for how many customers each bank has, so more complaints doesn't automatically mean a worse bank.
 - CFPB complaints are self-reported and not verified.
-- Capital One and Amex are card-heavy, while the others are full-service banks, so their product mixes aren't directly comparable.
+- American Express is mainly a card company, while the other four are full-service banks, so its product mix isn't directly comparable.
 
 ## Tools
 Excel (Power Query, PivotTables) · SQL (SQLite) · Power BI (DAX)
